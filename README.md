@@ -14,4 +14,6 @@ To evaluate loan application trends and approval rates by analyzing customer dem
 Aim:
 To monitor and assess emergency room performance by analyzing patient inflow, wait times, treatment outcomes, and resource utilization, with the goal of improving healthcare service delivery and patient satisfaction.
 
-## 4.
+## 4.Road Accident Data Analysis
+Aim:
+To analyze patterns and trends in road accidents by examining factors such as location, time, weather conditions, vehicle types, and severity levels, with the goal of identifying risk areas and informing strategies to reduce road traffic incidents and improve public safety.
