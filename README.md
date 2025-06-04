@@ -17,3 +17,7 @@ To monitor and assess emergency room performance by analyzing patient inflow, wa
 ## 4.Road Accident Data Analysis
 Aim:
 To analyze patterns and trends in road accidents by examining factors such as location, time, weather conditions, vehicle types, and severity levels, with the goal of identifying risk areas and informing strategies to reduce road traffic incidents and improve public safety.
+
+## 5. Spotify Analysis
+Aim :
+To analyze trends and patterns in Spotify to improve performence and to focus on trends that can help deliver the best listening songs . In this project we are focusing on trends like Artist name,track played,Albums that are mostly played in Weekdays or Weekends
