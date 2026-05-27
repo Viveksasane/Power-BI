@@ -31,6 +31,6 @@ Implemented advanced DAX calculations, KPI analysis, time intelligence functions
 2. Advanced DAX
 3. Time Intelligence
 4. Accident & Risk Analysis
-Interactive Dashboard Design
-Geographic Visualization
-Business Intelligence Reporting
+5. Interactive Dashboard Design
+6. Geographic Visualization
+7. Business Intelligence Reporting
