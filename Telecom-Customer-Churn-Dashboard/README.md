@@ -41,3 +41,6 @@ Implemented a star-schema data model with advanced DAX calculations, YoY time in
 5. Customer Churn Analysis
 6. Interactive Dashboard Design
 7. Business Intelligence Reporting
+# 📥 Download Dashboard
+
+- Download PBIX File :(https://drive.google.com/file/d/16gekCRGmcCBRZhwzXPTiX4z7mnGo1Z11/view?usp=drive_link)
